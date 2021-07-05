@@ -75,7 +75,7 @@ export default class calulator extends React.Component {
 
 
                 <div>Water was {this.boilOrNot()}</div>
-                <div>{this.esliTemperaatura100()}</div>
+               
 
 
             </div>
